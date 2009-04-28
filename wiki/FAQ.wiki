@@ -1,0 +1,9 @@
+#summary One-sentence summary of this page.
+
+= Frequently Asked Questions =
+
+Here is the JMXetric FAQ
+
+= Details =
+
+  # *Sample Question?* Sample Answer
