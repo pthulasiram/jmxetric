@@ -10,4 +10,4 @@ rrdtool graph output.png -a PNG --title "NetBeans Heap Usage" -s -1h \
  AREA:used#0000ff:"Used Heap" \
 }}}
 
-[http://www.specialprojectslab.com/NetBeans_Composite.png]
+[http://www.specialprojectslab.com/images/NetBeans_Composite.png]
