@@ -1,0 +1,1 @@
+As of Summer 2012, this project has moved to the core ganglia repository on [github](https://github.com/ganglia/jmxetric). Contact the [ganglia-developers](http://ganglia.info) mailing list for more details.
